@@ -1,4 +1,4 @@
-import '@/soora/styles/globals.css'
+import '@/soora/styles/global.css'
 
 export default function App({ Component, pageProps }) {
   return <Component {...pageProps} />
